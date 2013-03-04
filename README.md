@@ -26,3 +26,7 @@ var suggest = Autosuggest($('input'), newS)
     suggest.set(newS.concat(["prototype.js"]))
 
 ```
+
+### Demo:
+
+    [http://thinkphp.github.com/autosuggest.js](http://thinkphp.github.com/autosuggest.js)
