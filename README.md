@@ -29,4 +29,4 @@ var suggest = Autosuggest($('input'), newS)
 
 ### Demo:
 
-    [http://thinkphp.github.com/autosuggest.js](http://thinkphp.github.com/autosuggest.js)
+* [http://thinkphp.github.com/autosuggest.js](http://thinkphp.github.com/autosuggest.js)
