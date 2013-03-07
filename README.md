@@ -8,6 +8,12 @@ Add autocomplete functionality to input elements.
 
 ## Usage
 
+```html
+
+<input type="text" id="input" name="input" />
+
+```
+
 ```js
 
 //return an element from id
