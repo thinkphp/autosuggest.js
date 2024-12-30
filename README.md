@@ -36,8 +36,6 @@ var suggest = Autosuggest($('input'), newS)
 
 ### Demo:
 
-* [http://thinkphp.github.io/autosuggest.js]
-* Inspired from [https://github.com/component]
+* http://thinkphp.github.io/autosuggest.js
+* Inspired from https://github.com/component
 
-[http://thinkphp.github.com/autosuggest.js]: http://thinkphp.github.com/autosuggest.js
-[https://github.com/component]: https://github.com/component
